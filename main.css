@@ -1,0 +1,46 @@
+body{
+    background-color: red;
+    background-size: cover;
+}
+.card{
+    background-color:rgb(119, 118, 119);
+    position:absolute;
+    top: 30%;
+    left: 50%;
+    transform:translate(-50%, 50%)
+} 
+
+.style1{
+    color: black;
+    background-color: aquamarine;
+    border-color: blue;
+    border-style: dashed;
+}
+.style2{
+    color: brown;
+    background-color: antiquewhite;
+}
+.style3{
+    color: red;
+    background-color: black;
+}
+.style4{
+    color:yellow;
+    background-color:blueviolet;
+}
+.style5{
+    color: white;
+    background-color:brown;
+}
+.style6{
+    color: green;
+    background-color: goldenrod;
+}
+/* #samerabed{
+    
+    border-style: double;
+    background-color: bisque;
+    border-color: brown;
+    box-shadow:inset;
+} */
+
